@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chudah an avid learner of technology
 - 👀 I’m interested in data science, machine learning, web dev, and cloud development
 - 🌱 I’m currently learning Cloud Devops
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on data science and web development projects
 - 📫 How to reach me gmail:yakung25c@gmail.com, snap:chudah.sc
 
 <!---
