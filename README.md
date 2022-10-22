@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, web dev, and cloud development
 - 🌱 I’m currently learning Cloud Devops
 - 💞️ I’m looking to collaborate on data science and web development projects
-- 📫 How to reach me gmail:yakung25c@gmail.com, snap:chudah.sc
+- 📫 How to reach me gmail:yakung25c@gmail.com
 
 <!---
 chudah1/chudah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
